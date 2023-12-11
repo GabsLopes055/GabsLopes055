@@ -1,4 +1,4 @@
-### Olá ! Me chamo Gabriel Lopes, sou formado em Ciências da Computação e cá estou eu em busca da tão sonhada primeira vaga como dev junior. 👋
+### Olá, eu sou o Gabriel Lopes, graduado em Ciências da Computação, e estou atualmente buscando minha primeira oportunidade como desenvolvedor júnior. 👋
 <hr></hr>
 
 Atualmente estudando: Java, Spring Boot, Angular
