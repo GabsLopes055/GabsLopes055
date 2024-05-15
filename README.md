@@ -4,6 +4,8 @@
 <br><br>
 Com sólida experiência em linguagens front-end e back-end. Fascinado pela diversidade, encontro inspiração nas diferenças e estou pronto para começar uma nova jornada. 🖥📈<br><br>Vamos criar algo extraordinário juntos ?  🦾🎊</h3>
 
+<br>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
