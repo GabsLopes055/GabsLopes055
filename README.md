@@ -2,8 +2,6 @@
 
 <h3 align="left">Olá, eu sou o Gabriel Lopes, graduado em Ciências da Computação. 👋<br><br><br>Sou desenvolvedor FullStack apaixonado por desafios que transformam ideias em códigos. 🤗<br><br>Com sólida experiência em linguagens front-end e back-end.<br>Fascinado pela diversidade, encontro inspiração nas diferenças<br>e estou pronto para começar uma nova jornada. 🖥📈<br><br>Vamos criar algo extraordinário juntos ?  🦾🎊</h3>
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -33,11 +31,8 @@
 </div>
 
 <hr></hr>
-###
 
 <h3 align="left">Caso queira entrar em contato ! 🎯</h3>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gabslopes/" target="_blank">
@@ -48,7 +43,7 @@
   </a>
 </div>
 
-###
+<hr></hr>
 
 <br clear="both">
 
@@ -58,4 +53,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabsLopes055&radius=16&theme=nord&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+<hr></hr>
