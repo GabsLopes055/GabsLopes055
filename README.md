@@ -1,4 +1,4 @@
-<h3 align="left">Olá, eu sou o Gabriel Lopes, graduado em Ciências da Computação. 👋<br><br><br>Sou desenvolvedor FullStack apaixonado por desafios que transformam ideias em códigos. 🤗 
+<h3 align="left">Olá, sou o Gabriel Lopes, graduado em Ciências da Computação. 👋<br><br><br>Sou desenvolvedor FullStack apaixonado por desafios que transformam ideias em códigos. 🤗 
 <br><br>
 Com sólida experiência em linguagens front-end e back-end. Fascinado pela diversidade, encontro inspiração nas diferenças e estou pronto para começar uma nova jornada. 🖥📈<br><br>Vamos criar algo extraordinário juntos ?  🦾🎊</h3>
 
